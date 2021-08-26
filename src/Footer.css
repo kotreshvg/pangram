@@ -1,0 +1,27 @@
+.footer{
+    background-color: #47143D;
+    color: white;
+    padding: 5px 0 2px 0;
+}
+.footer > button{
+    margin: 0 auto;
+    color: #47143D;
+    border: thin;
+    font-weight: 600;
+    cursor: pointer;
+    line-height: 1.5;
+    padding: 7px 20px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    background-color: #f8f9fa;
+    font-family: inherit;
+}
+.social{
+    margin: 20px;
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content:center;
+}
+.social > i{
+    padding: 2px 20px;
+}
